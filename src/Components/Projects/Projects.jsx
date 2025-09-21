@@ -58,7 +58,7 @@ const Projects = () => {
           img={project3Img}
           title="Accessory Recommendation System"
           main="This is a Consultancy project for Adikriti Apparels, built in Python with ML libraries. It recommends accessories and applies them on uploaded user photos."
-          demoLink="https://your-demo-link3.com"
+          demoLink="https://accessories-recommendation-system-4.onrender.com"
           sourceLink="https://github.com/anjali467/Accessories-Recommendation-System/tree/main"
         />
       </div>
