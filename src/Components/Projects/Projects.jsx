@@ -51,7 +51,7 @@ const Projects = () => {
           img={project2Img}
           title="Portfolio Website"
           main="This is a Portfolio website created in React and used some component library."
-          demoLink="https://your-demo-link2.com"
+          demoLink="https://magical-klepon.netlify.app/"
           sourceLink="https://github.com/anjali467/Portfolio/tree/main"
         />
         <ProjectCard
